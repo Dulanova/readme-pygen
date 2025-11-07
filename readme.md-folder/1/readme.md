@@ -46,7 +46,7 @@ quote: "Make your code dance 💃 and your pixels sing 🎶"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dulanova&theme=radical" />
 </p>
 
 ---
@@ -70,7 +70,6 @@ quote: "Make your code dance 💃 and your pixels sing 🎶"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-```
 
 ---
 

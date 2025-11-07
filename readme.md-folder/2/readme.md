@@ -80,7 +80,6 @@ motto: "Code is an art — and every line tells a story."
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=2,20,30" />
 </p>
-```
 
 ---
 
